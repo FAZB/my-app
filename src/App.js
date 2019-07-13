@@ -17,8 +17,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Bismillah!!!
-          Today is July 13th 2019 @MMA.
-        </a>
+          Today is July 13th 2019 @MMA..
+        </a> 
       </header>
     </div>
   );
