@@ -17,7 +17,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Bismillah!!!
-          Today is July 13th 2019 @MMA..Learning to create a web page using react and deploy on netlify and amazon amplify cloud and check-in code in GitHub.
+          Today is July 13th 2019 @MMA..Learning to create a web page using react and deploy on netlify and amazon amplify cloud 
+          and check-in code in GitHub.
         </a> 
       </header>
     </div>
