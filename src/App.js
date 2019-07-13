@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Bismillah!!!
-          Tariq Bhai is a genius!!! MashAllah.
+          Today is July 13th 2019 @MMA.
         </a>
       </header>
     </div>
