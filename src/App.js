@@ -16,10 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bismillah!!!
-          Today is July 13th 2019 @MMA..Learning to create a web page using react and deploy on netlify and amazon amplify cloud 
-          and check-in code in GitHub.
-        </a> 
+          Today's practice is to create an simple app using react and deploy on the Amazon AWS and Netlify cloud and 
+		  check-in code in GitHub.   
+        </a>
       </header>
     </div>
   );
